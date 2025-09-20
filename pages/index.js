@@ -1,0 +1,2 @@
+// Home Page
+export default function Home() { return <h1>Welcome to Lirux Demo</h1>; }
